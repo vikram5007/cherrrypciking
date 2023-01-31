@@ -1,3 +1,6 @@
 thsi is the 1st commmit 
 this is the 2nd commit 
+<<<<<<< HEAD
 this is the 3rd commit 
+=======
+>>>>>>> 121151c (2nd commit)
